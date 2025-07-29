@@ -1,0 +1,73 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Our Products",
+    "solutions": "Solutions",
+    "technical_support": "Technical Support",
+    "store": "Store",
+    "contact": "Contact"
+  },
+  "about_us_links": {
+    "overview": "Company Overview",
+    "overview_desc": "Our company's journey, vision, and mission.",
+    "blog": "Activity Blog",
+    "blog_desc": "Latest updates from our activities and events.",
+    "licenses": "Product Licenses",
+    "licenses_desc": "Official certifications and licenses for our products.",
+    "projects": "Our Projects",
+    "projects_desc": "Portfolio of projects we have successfully completed.",
+    "environment": "Environmental Benefits",
+    "environment_desc": "Our commitment to sustainable development.",
+    "clients": "Our Clients",
+    "clients_desc": "See who has placed their trust in us."
+  },
+  "user_menu": {
+    "user": "User",
+    "sign_out": "Sign Out"
+  },
+  "cart": {
+    "cart": "Shopping Cart"
+  },
+  "footer": {
+    "address_title": "Our Address",
+    "address_detail": "Plaza Mebel #31-#35 Jl. RS Fatmawati KAV 5, Cipete Kebayoran Baru South Jakarta 10420",
+    "phone": "Phone (021) 38805294",
+    "email": "e-mail : info@cemerlang.pro",
+    "about_title": "About Us",
+    "products_support_title": "Products & Support",
+    "location_title": "Our Location",
+    "copyright": "© {{year}} Cemerlang Pro Solutions. All rights reserved."
+  },
+  "cta": {
+    "title": "Ready to Start Your Project?",
+    "description": "Contact our expert team for a free consultation or explore our online store to find the right products for your needs.",
+    "contact_us": "Contact Us",
+    "visit_store": "Visit Store"
+  },
+  "buttons": {
+    "see_more": "See More",
+    "view_details": "View Details"
+  },
+  "home_page": {
+    "hero_title": "Innovative Solutions for Modern Infrastructure",
+    "hero_subtitle": "Cemerlang Pro Solutions provides high-quality products for road construction and maintenance, from microsurfacing to road marking paint.",
+    "hero_cta_products": "Explore Our Products",
+    "hero_cta_contact": "Contact Us",
+    "about_badge": "About Us",
+    "about_title": "Commitment to Quality and Innovation Since 2005",
+    "about_desc": "Cemerlang Pro Solutions is your trusted partner in the construction industry, providing cutting-edge solutions backed by years of experience and international product licenses. We are committed to environmentally friendly practices for a better future.",
+    "about_feature1": "Guaranteed Quality",
+    "about_feature2": "Expert Technical Support",
+    "about_feature3": "Eco-Friendly Solutions",
+    "about_cta": "Learn More",
+    "products_title": "Our Products",
+    "products_desc": "Explore our selection of top-quality products designed for maximum durability and performance.",
+    "licenses_title": "Licenses & Certifications",
+    "licenses_desc": "The quality of our products is recognized and supported by national and international certifications.",
+    "projects_title": "Our Projects",
+    "projects_desc": "Our portfolio showcases expertise and commitment in delivering the best results across various infrastructure projects.",
+    "clients_title": "Our Clients",
+    "clients_desc": "We are proud to be trusted by various leading companies and organizations."
+  }
+}
